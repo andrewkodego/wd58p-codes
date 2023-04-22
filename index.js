@@ -1,0 +1,18 @@
+const students = [
+    "Emelloyd Rodriguez",
+    "Gildo Omandam",
+    "Arjohn Lopez",
+    "Ronnie Estillero",
+    "Revelyn Resolo",
+    "Angelo Nhel Acibar",
+    "Lyka May Saavedra",
+    "David Fajardo",
+    "Joshua  Tobongbanua",
+    "Carlo Pisico",
+    "Ralph Arcos",
+    "Rommel Jay Ocon",
+    "Jerold Cuico",
+    "Rolando Castro",
+    "Nicole Magallanes",
+    "Paul Luzong",
+    ];
